@@ -8,6 +8,50 @@
 			"term": "ஆ",
 			"definition": "IPA: aː",
 			"description": "Sounds like 'a' in the word 'car'"
+		}, {
+			"term": "இ",
+			"definition": "IPA: i",
+			"description": "Sounds like 'i' in the word 'dill'"
+		}, {
+			"term": "ஈ",
+			"definition": "IPA: iː",
+			"description": "Sounds like 'ee' in the word 'feet'"
+		}, {
+			"term": "உ",
+			"definition": "IPA: u",
+			"description": "Sounds like 'oo' in the word 'look'"
+		}, {
+			"term": "ஊ",
+			"definition": "IPA: uː",
+			"description": "Sounds like 'oo' in the word 'loot'"
+		}, {
+			"term": "எ",
+			"definition": "IPA: e",
+			"description": "Sounds like 'e' in the word 'yell'"
+		}, {
+			"term": "ஏ",
+			"definition": "IPA: eː",
+			"description": "Sounds like 'a' in the word 'yale'"
+		}, {
+			"term": "ஐ",
+			"definition": "IPA: aɪ̯",
+			"description": "Sounds like 'i' in the word 'kite'"
+		}, {
+			"term": "ஒ",
+			"definition": "IPA: o",
+			"description": "Sounds like 'ou' in the word 'court'"
+		}, {
+			"term": "ஓ",
+			"definition": "IPA: oː",
+			"description": "Sounds like 'o' in the word 'old'"
+		}, {
+			"term": "ஔ",
+			"definition": "IPA: aʊ̯",
+			"description": "Sounds like 'ou' in the word 'house'"
+		}, {
+			"term": "ஃ",
+			"definition": "IPA: x",
+			"description": ""
 		}]
 	}
 }
