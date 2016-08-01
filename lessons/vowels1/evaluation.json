@@ -27,8 +27,8 @@
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'ஈகை'?",
-		"choices": ["aa-k-ai", "oo-k-ai", "ee-k-ai", "n-aa-k-ai"],
-		"answer": "ee-k-ai"
+		"choices": ["aa-k-ai", "oo-k-ai", "ii-k-ai", "n-aa-k-ai"],
+		"answer": "ii-k-ai"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'உப்பு'?",
