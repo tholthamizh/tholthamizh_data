@@ -1,84 +1,74 @@
 {
 	"questions": [{
 		"questionType": "choice",
-		"question": "How do you pronounce 'அமை'?",
-		"choices": ["Amai", "Namai", "Kamai", "Damai"],
-		"answer": "Amai"
-	}, {
-		"questionType": "choice",
-		"question": "How do you pronounce 'அரும்பு'?",
-		"choices": ["Irumbu", "Karumbu", "Arumbu", "Kurumbu"],
-		"answer": "Arumbu"
-	}, {
-		"questionType": "choice",
 		"question": "How do you pronounce 'அரி'?",
-		"choices": ["Iri", "Ari", "Kari", "Kuri"],
-		"answer": "Ari"
+		"choices": ["i-r-i", "a-r-i", "m-a-r-i", "k-u-r-i"],
+		"answer": "a-r-i"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'ஆமை'?",
-		"choices": ["Paamai", "Eemai", "Yemai", "Aamai"],
-		"answer": "Aamai"
+		"choices": ["p-aa-m-ai", "ii-m-ai", "ee-m-ai", "aa-m-ai"],
+		"answer": "aa-m-ai"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'ஆடு'?",
-		"choices": ["Koodu", "Yedu", "Aadu", "Maadu"],
-		"answer": "Aadu"
+		"choices": ["k-uu-d-u", "ee-d-u", "aa-d-u", "m-aa-d-u"],
+		"answer": "aa-d-u"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'ஆறு'?",
-		"choices": ["Aaru", "Yeru", "Kooru", "Mooru"],
-		"answer": "Aaru"
+		"choices": ["aa-r-u", "ee-r-u", "k-uu-r-u", "m-uu-r-u"],
+		"answer": "aa-r-u"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'இரண்டு'?",
-		"choices": ["Arandu", "Irandu", "Murandu", "Kurandu"],
-		"answer": "Irandu"
+		"choices": ["a-r-a-n-d-u", "i-r-a-n-d-u", "m-u-r-a-n-d-u", "k-u-r-a-n-d-u"],
+		"answer": "i-r-a-n-d-u"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'ஈகை'?",
-		"choices": ["AAkai", "Vokai", "Eegai", "Nagai"],
-		"answer": "Eegai"
+		"choices": ["aa-k-ai", "oo-k-ai", "ee-k-ai", "n-aa-k-ai"],
+		"answer": "ee-k-ai"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'உப்பு'?",
-		"choices": ["Mappu", "Uppu", "Appu", "Yeppu"],
-		"answer": "Uppu"
+		"choices": ["m-a-p-p-u", "u-p-p-u", "a-p-p-u", "e-p-p-u"],
+		"answer": "u-p-p-u"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'ஊர்'?",
-		"choices": ["Caar", "Aar", "Yer", "Oor"],
-		"answer": "Oor"
+		"choices": ["K-aa-r", "aa-r", "e-r", "uu-r"],
+		"answer": "uu-r"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'எள்'?",
-		"choices": ["Yell", "Ull", "Nall", "Mall"],
-		"answer": "Yell"
+		"choices": ["e-L", "u-L", "n-a-L", "m-a-L"],
+		"answer": "e-L"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'ஏன்'?",
-		"choices": ["Yaen", "Oon", "Koon", "Moon"],
-		"answer": "Yaen"
+		"choices": ["ee-n", "uu-n", "k-uu-n", "m-uu-n"],
+		"answer": "ee-n"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'ஒன்று'?",
-		"choices": ["Moondru", "Ondru", "Yendru", "Kandru"],
-		"answer": "Ondru"
+		"choices": ["m-uu-n-R-u", "o-n-R-u", "e-n-Ru", "k-a-n-R-u"],
+		"answer": "o-n-R-u"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'ஓது'?",
-		"choices": ["Vothu", "Oothu", "Moothu", "Kaathu"],
-		"answer": "Vothu"
+		"choices": ["oo-th-u", "uu-th-u", "m-uu-th-u", "k-aa-th-u"],
+		"answer": "oo-th-u"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'ஐந்து'?",
-		"choices": ["Aindhu", "Paindhu", "Kaindhu", "Naindhu"],
-		"answer": "Aindhu"
+		"choices": ["ai-n-th-u", "p-ai-n-th-u", "k-ai-n-th-u", "n-ai-n-th-u"],
+		"answer": "ai-n-th-u"
 	}, {
 		"questionType": "choice",
 		"question": "How do you pronounce 'ஔகாரம்'?",
-		"choices": ["Augaaram", "Yegaaram", "Oogaaram", "Yegaaram"],
-		"answer": "Augaaram"
+		"choices": ["au-k-aa-r-a-m", "ee-k-aa-r-a-m", "uu-k-aa-r-a-m", "ii-kaa-r-a-m"],
+		"answer": "au-k-aa-r-a-m"
 	}]
 
 }
