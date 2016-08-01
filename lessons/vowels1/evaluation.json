@@ -29,6 +29,56 @@
 		"question": "How do you pronounce 'ஆறு'?",
 		"choices": ["Aaru", "Yeru", "Kooru", "Mooru"],
 		"answer": "Aaru"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'இரண்டு'?",
+		"choices": ["Arandu", "Irandu", "Murandu", "Kurandu"],
+		"answer": "Irandu"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'ஈகை'?",
+		"choices": ["AAkai", "Vokai", "Eegai", "Nagai"],
+		"answer": "Eegai"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'உப்பு'?",
+		"choices": ["Mappu", "Uppu", "Appu", "Yeppu"],
+		"answer": "Uppu"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'ஊர்'?",
+		"choices": ["Caar", "Aar", "Yer", "Oor"],
+		"answer": "Oor"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'எள்'?",
+		"choices": ["Yell", "Ull", "Nall", "Mall"],
+		"answer": "Yell"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'ஏன்'?",
+		"choices": ["Yaen", "Oon", "Koon", "Moon"],
+		"answer": "Yaen"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'ஒன்று'?",
+		"choices": ["Moondru", "Ondru", "Yendru", "Kandru"],
+		"answer": "Ondru"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'ஓது'?",
+		"choices": ["Vothu", "Oothu", "Moothu", "Kaathu"],
+		"answer": "Vothu"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'ஐந்து'?",
+		"choices": ["Aindhu", "Paindhu", "Kaindhu", "Naindhu"],
+		"answer": "Aindhu"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'ஔகாரம்'?",
+		"choices": ["Augaaram", "Yegaaram", "Oogaaram", "Yegaaram"],
+		"answer": "Augaaram"
 	}]
 
 }
