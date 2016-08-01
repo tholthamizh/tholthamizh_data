@@ -14,6 +14,21 @@
 		"question": "How do you pronounce 'அரி'?",
 		"choices": ["Iri", "Ari", "Kari", "Kuri"],
 		"answer": "Ari"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'ஆமை'?",
+		"choices": ["Paamai", "Eemai", "Yemai", "Aamai"],
+		"answer": "Aamai"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'ஆடு'?",
+		"choices": ["Koodu", "Yedu", "Aadu", "Maadu"],
+		"answer": "Aadu"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'ஆறு'?",
+		"choices": ["Aaru", "Yeru", "Kooru", "Mooru"],
+		"answer": "AAru"
 	}]
 
 }
