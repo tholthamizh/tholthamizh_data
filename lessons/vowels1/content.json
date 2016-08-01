@@ -2,39 +2,39 @@
 	"content": {
 		"terms": [{
 			"term": "அ",
-			"definition": "IPA: a | ಅ",
+			"definition": "a | ಅ",
 			"description": "First letter of tamil alphabet. Sounds like 'u' in the word 'nut'"
 		}, {
 			"term": "ஆ",
-			"definition": "IPA: aː । ಆ",
+			"definition": "aa । ಆ",
 			"description": "Sounds like 'a' in the word 'car'"
 		}, {
 			"term": "இ",
-			"definition": "IPA: i । ಇ",
+			"definition": "i । ಇ",
 			"description": "Sounds like 'i' in the word 'dill'"
 		}, {
 			"term": "ஈ",
-			"definition": "IPA: iː । ಈ",
+			"definition": "ii । ಈ",
 			"description": "Sounds like 'ee' in the word 'feet'"
 		}, {
 			"term": "உ",
-			"definition": "IPA: u । ಉ",
+			"definition": "u । ಉ",
 			"description": "Sounds like 'oo' in the word 'look'"
 		}, {
 			"term": "ஊ",
-			"definition": "IPA: uː । ಊ",
+			"definition": "uu । ಊ",
 			"description": "Sounds like 'oo' in the word 'loot'"
 		}, {
 			"term": "எ",
-			"definition": "IPA: e । ಎ",
+			"definition": "e । ಎ",
 			"description": "Sounds like 'e' in the word 'yell'"
 		}, {
 			"term": "ஏ",
-			"definition": "IPA: eː । ಏ",
+			"definition": "IPA: ee । ಏ",
 			"description": "Sounds like 'a' in the word 'yale'"
 		}, {
 			"term": "ஐ",
-			"definition": "IPA: aɪ̯ । ಐ",
+			"definition": "IPA: ai । ಐ",
 			"description": "Sounds like 'i' in the word 'kite'"
 		}, {
 			"term": "ஒ",
@@ -42,11 +42,11 @@
 			"description": "Sounds like 'ou' in the word 'court'"
 		}, {
 			"term": "ஓ",
-			"definition": "IPA: oː । ಓ",
+			"definition": "IPA: oo । ಓ",
 			"description": "Sounds like 'o' in the word 'old'"
 		}, {
 			"term": "ஔ",
-			"definition": "IPA: aʊ̯ । ಔ",
+			"definition": "IPA: au । ಔ",
 			"description": "Sounds like 'ou' in the word 'house'"
 		}, {
 			"term": "ஃ",
