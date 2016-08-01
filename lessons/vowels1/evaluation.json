@@ -1,0 +1,13 @@
+{
+	"questions": [{
+		"questionType": "choice",
+		"question": "Which is the first alphabet in Tamil?",
+		"choices": ["A", "B", "C", "D"],
+		"answer": "C"
+	}, {
+		"questionType": "text",
+		"question": "Type Tamil's first alphabet",
+		"answer": "A"
+	}]
+
+}
