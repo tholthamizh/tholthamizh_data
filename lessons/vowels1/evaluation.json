@@ -1,13 +1,19 @@
 {
 	"questions": [{
 		"questionType": "choice",
-		"question": "Which is the first alphabet in Tamil?",
-		"choices": ["A", "B", "C", "D"],
-		"answer": "C"
+		"question": "How do you pronounce 'அமை'?",
+		"choices": ["Amai", "Namai", "Kamai", "Damai"],
+		"answer": "Amai"
 	}, {
-		"questionType": "text",
-		"question": "Type Tamil's first alphabet",
-		"answer": "A"
+		"questionType": "choice",
+		"question": "How do you pronounce 'அரும்பு'?",
+		"choices": ["Irumbu", "Karumbu", "Arumbu", "Kurumbu"],
+		"answer": "Arumbu"
+	}, {
+		"questionType": "choice",
+		"question": "How do you pronounce 'அரி'?",
+		"choices": ["Iri", "Ari", "Kari", "Kuri"],
+		"answer": "Arumbu"
 	}]
 
 }
