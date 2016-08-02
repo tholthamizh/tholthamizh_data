@@ -2,75 +2,75 @@
 	"content": {
 		"terms": [{
 			"term": "க்",
-			"definition": "Our Notation: k | KA: ಕ್ | IPA: ",
+			"definition": "Our Notation: k | KA: ಕ್ | IPA: k",
 			"description": ""
 		},{
 			"term": "ங்",
-			"definition": "Our Notation: ng | KA: ಙ್ | IPA: ",
+			"definition": "Our Notation: ng | KA: ಙ್ | IPA: ŋ",
 			"description": ""
 		},{
 			"term": "ச்",
-			"definition": "Our Notation: c | KA: ಚ್ | IPA: ",
+			"definition": "Our Notation: c | KA: ಚ್ | IPA: s",
 			"description": ""
 		},{
 			"term": "ஞ்",
-			"definition": "Our Notation: nj | KA: ಞ್ | IPA: ",
+			"definition": "Our Notation: nj | KA: ಞ್ | IPA: ɲ",
 			"description": ""
 		},{
 			"term": "ட்",
-			"definition": "Our Notation: t | KA: ಟ್ | IPA: ",
+			"definition": "Our Notation: t | KA: ಟ್ | IPA: ʈ",
 			"description": ""
 		},{
 			"term": "ண்",
-			"definition": "Our Notation: N | KA: ಣ್ | IPA: ",
+			"definition": "Our Notation: N | KA: ಣ್ | IPA: ɳ",
 			"description": ""
 		},{
 			"term": "த்",
-			"definition": "Our Notation: th | KA: ತ್ | IPA: ",
+			"definition": "Our Notation: th | KA: ತ್ | IPA: t̪",
 			"description": ""
 		},{
 			"term": "ந்",
-			"definition": "Our Notation: n | KA: ನ್ | IPA: ",
+			"definition": "Our Notation: n | KA: ನ್ | IPA: n",
 			"description": ""
 		},{
 			"term": "ப்",
-			"definition": "Our Notation: p | KA: ಪ್  | IPA: ",
+			"definition": "Our Notation: p | KA: ಪ್  | IPA: p",
 			"description": ""
 		},{
 			"term": "ம்",
-			"definition": "Our Notation: m | KA: ಮ್  | IPA: ",
+			"definition": "Our Notation: m | KA: ಮ್  | IPA: m",
 			"description": ""
 		},{
 			"term": "ய்",
-			"definition": "Our Notation: y | KA: ಯ್ | IPA: ",
+			"definition": "Our Notation: y | KA: ಯ್ | IPA: j",
 			"description": ""
 		},{
 			"term": "ர்",
-			"definition": "Our Notation: r | KA: ರ್ | IPA: ",
+			"definition": "Our Notation: r | KA: ರ್ | IPA: r",
 			"description": ""
 		},{
 			"term": "ல்",
-			"definition": "Our Notation: l | KA: ಲ್ | IPA: ",
+			"definition": "Our Notation: l | KA: ಲ್ | IPA: l",
 			"description": ""
 		},{
 			"term": "வ்",
-			"definition": "Our Notation: v | KA: ವ್ | IPA: ",
+			"definition": "Our Notation: v | KA: ವ್ | IPA: ʋ",
 			"description": ""
 		},{
 			"term": "ள்",
-			"definition": "Our Notation: L | KA: ಳ್ | IPA: ",
+			"definition": "Our Notation: L | KA: ಳ್ | IPA: ɭ",
 			"description": ""
 		},{
 			"term": "ழ்",
-			"definition": "Our Notation: zh | KA: approximated to ಳ್ | IPA: ",
+			"definition": "Our Notation: zh | KA: approximated to ಳ್ | IPA: ɻ",
 			"description": ""
 		},{
 			"term": "ற்",
-			"definition": "Our Notation: R | KA: approximated to ರ್ | IPA: ",
+			"definition": "Our Notation: R | KA: approximated to ರ್ | IPA: r",
 			"description": ""
 		},{
 			"term": "ன்",
-			"definition": "Our Notation: nn | KA: approximated to ಣ್ | IPA: ",
+			"definition": "Our Notation: nn | KA: approximated to ಣ್ | IPA: n",
 			"description": ""
 		}]
 	}
