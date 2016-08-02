@@ -1,0 +1,76 @@
+{
+	"questions": [{
+		"question": "Transliterate 'க்'",
+		"questionType": "text",
+		"answer": "k"
+	}, {
+		"question": "Transliterate 'ங்'",
+		"questionType": "text",
+		"answer": "ng"
+	}, {
+		"question": "Transliterate 'ச்'",
+		"questionType": "text",
+		"answer": "c"
+	}, {
+		"question": "Transliterate 'ஞ்'",
+		"questionType": "text",
+		"answer": "nj"
+	}, {
+		"question": "Transliterate 'ட்'",
+		"questionType": "text",
+		"answer": "t"
+	}, {
+		"question": "Transliterate 'ண்'",
+		"questionType": "text",
+		"answer": "N"
+	}, {
+		"question": "Transliterate 'த்'",
+		"questionType": "text",
+		"answer": "th"
+	}, {
+		"question": "Transliterate 'ந்'",
+		"questionType": "text",
+		"answer": "n"
+	}, {
+		"question": "Transliterate 'ப்'",
+		"questionType": "text",
+		"answer": "p"
+	}, {
+		"question": "Transliterate 'ம்'",
+		"questionType": "text",
+		"answer": "m"
+	}, {
+		"question": "Transliterate 'ய்'",
+		"questionType": "text",
+		"answer": "y"
+	}, {
+		"question": "Transliterate 'ர்'",
+		"questionType": "text",
+		"answer": "r"
+	}, {
+		"question": "Transliterate 'ல்'",
+		"questionType": "text",
+		"answer": "l"
+	}, {
+		"question": "Transliterate 'வ்'",
+		"questionType": "text",
+		"answer": "v"
+	}, {
+		"question": "Transliterate 'ள்'",
+		"questionType": "text",
+		"answer": "L"
+	}, {
+		"question": "Transliterate 'ழ்'",
+		"questionType": "text",
+		"answer": "zh"
+	}, {
+		"question": "Transliterate 'ற்'",
+		"questionType": "text",
+		"answer": "R"
+	}, {
+		"question": "Transliterate 'ன்'",
+		"questionType": "text",
+		"answer": "nn"
+	}]
+
+}
