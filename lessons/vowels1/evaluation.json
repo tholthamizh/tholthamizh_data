@@ -69,6 +69,54 @@
 		"question": "How do you pronounce 'ஔகாரம்'?",
 		"choices": ["au-k-aa-r-a-m", "ee-k-aa-r-a-m", "uu-k-aa-r-a-m", "ii-kaa-r-a-m"],
 		"answer": "au-k-aa-r-a-m"
+	}, {
+		"question": "Transliterate 'அ'",
+		"questionType": "text",
+		"answer": "a"
+	}, {
+		"question": "Transliterate 'ஆ'",
+		"questionType": "text",
+		"answer": "aa"
+	}, {
+		"question": "Transliterate 'இ'",
+		"questionType": "text",
+		"answer": "i"
+	}, {
+		"question": "Transliterate 'ஈ'",
+		"questionType": "text",
+		"answer": "ii"
+	}, {
+		"question": "Transliterate 'உ'",
+		"questionType": "text",
+		"answer": "u"
+	}, {
+		"question": "Transliterate 'உள'",
+		"questionType": "text",
+		"answer": "uu"
+	}, {
+		"question": "Transliterate 'எ'",
+		"questionType": "text",
+		"answer": "e"
+	}, {
+		"question": "Transliterate 'ஏ'",
+		"questionType": "text",
+		"answer": "ee"
+	}, {
+		"question": "Transliterate 'ஐ'",
+		"questionType": "text",
+		"answer": "ai"
+	}, {
+		"question": "Transliterate 'ஒ'",
+		"questionType": "text",
+		"answer": "o"
+	}, {
+		"question": "Transliterate 'ஓ'",
+		"questionType": "text",
+		"answer": "oo"
+	}, {
+		"question": "Transliterate 'ஔ'",
+		"questionType": "text",
+		"answer": "au"
 	}]
 
 }
