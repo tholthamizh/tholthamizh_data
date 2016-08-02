@@ -1,4 +1,868 @@
 {
-	"questions": []
+	"questions": [{
+		"question": "Transliterate 'க'",
+		"questionType": "text",
+		"answer": "k-a"
+	}, {
+		"question": "Transliterate 'கா'",
+		"questionType": "text",
+		"answer": "k-aa"
+	}, {
+		"question": "Transliterate 'கி'",
+		"questionType": "text",
+		"answer": "k-i"
+	}, {
+		"question": "Transliterate 'கீ'",
+		"questionType": "text",
+		"answer": "k-ii"
+	}, {
+		"question": "Transliterate 'கு'",
+		"questionType": "text",
+		"answer": "k-u"
+	}, {
+		"question": "Transliterate 'கூ'",
+		"questionType": "text",
+		"answer": "k-uu"
+	}, {
+		"question": "Transliterate 'கெ'",
+		"questionType": "text",
+		"answer": "k-e"
+	}, {
+		"question": "Transliterate 'கே'",
+		"questionType": "text",
+		"answer": "k-ee"
+	}, {
+		"question": "Transliterate 'கை'",
+		"questionType": "text",
+		"answer": "k-ai"
+	}, {
+		"question": "Transliterate 'கொ'",
+		"questionType": "text",
+		"answer": "k-o"
+	}, {
+		"question": "Transliterate 'கோ'",
+		"questionType": "text",
+		"answer": "k-oo"
+	}, {
+		"question": "Transliterate 'கௌ'",
+		"questionType": "text",
+		"answer": "k-au"
+	}, {
+		"question": "Transliterate 'ங'",
+		"questionType": "text",
+		"answer": "ng-a"
+	}, {
+		"question": "Transliterate 'ஙா'",
+		"questionType": "text",
+		"answer": "ng-aa"
+	}, {
+		"question": "Transliterate 'ஙி'",
+		"questionType": "text",
+		"answer": "ng-i"
+	}, {
+		"question": "Transliterate 'ஙீ'",
+		"questionType": "text",
+		"answer": "ng-ii"
+	}, {
+		"question": "Transliterate 'ஙு'",
+		"questionType": "text",
+		"answer": "ng-u"
+	}, {
+		"question": "Transliterate 'ஙூ'",
+		"questionType": "text",
+		"answer": "ng-uu"
+	}, {
+		"question": "Transliterate 'ஙெ'",
+		"questionType": "text",
+		"answer": "ng-e"
+	}, {
+		"question": "Transliterate 'ஙே'",
+		"questionType": "text",
+		"answer": "ng-ee"
+	}, {
+		"question": "Transliterate 'ஙை'",
+		"questionType": "text",
+		"answer": "ng-ai"
+	}, {
+		"question": "Transliterate 'ஙொ'",
+		"questionType": "text",
+		"answer": "ng-o"
+	}, {
+		"question": "Transliterate 'ஙோ'",
+		"questionType": "text",
+		"answer": "ng-oo"
+	}, {
+		"question": "Transliterate 'ஙௌ'",
+		"questionType": "text",
+		"answer": "ng-au"
+	}, {
+		"question": "Transliterate 'ச'",
+		"questionType": "text",
+		"answer": "c-a"
+	}, {
+		"question": "Transliterate 'சா'",
+		"questionType": "text",
+		"answer": "c-aa"
+	}, {
+		"question": "Transliterate 'சி'",
+		"questionType": "text",
+		"answer": "c-i"
+	}, {
+		"question": "Transliterate 'சீ'",
+		"questionType": "text",
+		"answer": "c-ii"
+	}, {
+		"question": "Transliterate 'ச'",
+		"questionType": "text",
+		"answer": "c-u"
+	}, {
+		"question": "Transliterate 'சூ'",
+		"questionType": "text",
+		"answer": "c-uu"
+	}, {
+		"question": "Transliterate 'செ'",
+		"questionType": "text",
+		"answer": "c-e"
+	}, {
+		"question": "Transliterate 'சே'",
+		"questionType": "text",
+		"answer": "c-ee"
+	}, {
+		"question": "Transliterate 'சை'",
+		"questionType": "text",
+		"answer": "c-ai"
+	}, {
+		"question": "Transliterate 'சொ'",
+		"questionType": "text",
+		"answer": "c-o"
+	}, {
+		"question": "Transliterate 'சோ'",
+		"questionType": "text",
+		"answer": "c-oo"
+	}, {
+		"question": "Transliterate 'சௌ'",
+		"questionType": "text",
+		"answer": "c-au"
+	}, {
+		"question": "Transliterate 'ஞ'",
+		"questionType": "text",
+		"answer": "nj-a"
+	}, {
+		"question": "Transliterate 'ஞா'",
+		"questionType": "text",
+		"answer": "nj-aa"
+	}, {
+		"question": "Transliterate 'ஞி'",
+		"questionType": "text",
+		"answer": "nj-i"
+	}, {
+		"question": "Transliterate 'ஞீ'",
+		"questionType": "text",
+		"answer": "nj-ii"
+	}, {
+		"question": "Transliterate 'ஞு'",
+		"questionType": "text",
+		"answer": "nj-u"
+	}, {
+		"question": "Transliterate 'ஞூ'",
+		"questionType": "text",
+		"answer": "nj-uu"
+	}, {
+		"question": "Transliterate 'ஞெ'",
+		"questionType": "text",
+		"answer": "nj-e"
+	}, {
+		"question": "Transliterate 'ஞே'",
+		"questionType": "text",
+		"answer": "nj-ee"
+	}, {
+		"question": "Transliterate 'ஞை'",
+		"questionType": "text",
+		"answer": "nj-ai"
+	}, {
+		"question": "Transliterate 'ஞொ'",
+		"questionType": "text",
+		"answer": "nj-o"
+	}, {
+		"question": "Transliterate 'ஞோ'",
+		"questionType": "text",
+		"answer": "nj-oo"
+	}, {
+		"question": "Transliterate 'ஞௌ'",
+		"questionType": "text",
+		"answer": "nj-au"
+	}, {
+		"question": "Transliterate 'ட'",
+		"questionType": "text",
+		"answer": "t-a"
+	}, {
+		"question": "Transliterate 'டா'",
+		"questionType": "text",
+		"answer": "t-aa"
+	}, {
+		"question": "Transliterate 'டி'",
+		"questionType": "text",
+		"answer": "t-i"
+	}, {
+		"question": "Transliterate 'டீ'",
+		"questionType": "text",
+		"answer": "t-ii"
+	}, {
+		"question": "Transliterate 'டு'",
+		"questionType": "text",
+		"answer": "t-u"
+	}, {
+		"question": "Transliterate 'டூ'",
+		"questionType": "text",
+		"answer": "t-uu"
+	}, {
+		"question": "Transliterate 'டெ'",
+		"questionType": "text",
+		"answer": "t-e"
+	}, {
+		"question": "Transliterate 'டே'",
+		"questionType": "text",
+		"answer": "t-ee"
+	}, {
+		"question": "Transliterate 'டை'",
+		"questionType": "text",
+		"answer": "t-ai"
+	}, {
+		"question": "Transliterate 'டொ'",
+		"questionType": "text",
+		"answer": "t-o"
+	}, {
+		"question": "Transliterate 'டோ'",
+		"questionType": "text",
+		"answer": "t-oo"
+	}, {
+		"question": "Transliterate 'டௌ'",
+		"questionType": "text",
+		"answer": "t-au"
+	}, {
+		"question": "Transliterate 'ண'",
+		"questionType": "text",
+		"answer": "N-a"
+	}, {
+		"question": "Transliterate 'ணா'",
+		"questionType": "text",
+		"answer": "N-aa"
+	}, {
+		"question": "Transliterate 'ணி'",
+		"questionType": "text",
+		"answer": "N-i"
+	}, {
+		"question": "Transliterate 'ணீ'",
+		"questionType": "text",
+		"answer": "N-ii"
+	}, {
+		"question": "Transliterate 'ணு'",
+		"questionType": "text",
+		"answer": "N-u"
+	}, {
+		"question": "Transliterate 'ணூ'",
+		"questionType": "text",
+		"answer": "N-uu"
+	}, {
+		"question": "Transliterate 'ணெ'",
+		"questionType": "text",
+		"answer": "N-e"
+	}, {
+		"question": "Transliterate 'ணே'",
+		"questionType": "text",
+		"answer": "N-ee"
+	}, {
+		"question": "Transliterate 'ணை'",
+		"questionType": "text",
+		"answer": "N-ai"
+	}, {
+		"question": "Transliterate 'ணொ'",
+		"questionType": "text",
+		"answer": "N-o"
+	}, {
+		"question": "Transliterate 'ணோ'",
+		"questionType": "text",
+		"answer": "N-oo"
+	}, {
+		"question": "Transliterate 'ணௌ'",
+		"questionType": "text",
+		"answer": "N-au"
+	}, {
+		"question": "Transliterate 'த'",
+		"questionType": "text",
+		"answer": "th-a"
+	}, {
+		"question": "Transliterate 'தா'",
+		"questionType": "text",
+		"answer": "th-aa"
+	}, {
+		"question": "Transliterate 'தி'",
+		"questionType": "text",
+		"answer": "th-i"
+	}, {
+		"question": "Transliterate 'தீ'",
+		"questionType": "text",
+		"answer": "th-ii"
+	}, {
+		"question": "Transliterate 'து'",
+		"questionType": "text",
+		"answer": "th-u"
+	}, {
+		"question": "Transliterate 'தூ'",
+		"questionType": "text",
+		"answer": "th-uu"
+	}, {
+		"question": "Transliterate 'தெ'",
+		"questionType": "text",
+		"answer": "th-e"
+	}, {
+		"question": "Transliterate 'தே'",
+		"questionType": "text",
+		"answer": "th-ee"
+	}, {
+		"question": "Transliterate 'தை'",
+		"questionType": "text",
+		"answer": "th-ai"
+	}, {
+		"question": "Transliterate 'தொ'",
+		"questionType": "text",
+		"answer": "th-o"
+	}, {
+		"question": "Transliterate 'தோ'",
+		"questionType": "text",
+		"answer": "th-oo"
+	}, {
+		"question": "Transliterate 'தௌ'",
+		"questionType": "text",
+		"answer": "th-au"
+	}, {
+		"question": "Transliterate 'ந'",
+		"questionType": "text",
+		"answer": "n-a"
+	}, {
+		"question": "Transliterate 'நா'",
+		"questionType": "text",
+		"answer": "n-aa"
+	}, {
+		"question": "Transliterate 'நி'",
+		"questionType": "text",
+		"answer": "n-i"
+	}, {
+		"question": "Transliterate 'நீ'",
+		"questionType": "text",
+		"answer": "n-ii"
+	}, {
+		"question": "Transliterate 'நு'",
+		"questionType": "text",
+		"answer": "n-u"
+	}, {
+		"question": "Transliterate 'நூ'",
+		"questionType": "text",
+		"answer": "n-uu"
+	}, {
+		"question": "Transliterate 'நெ'",
+		"questionType": "text",
+		"answer": "n-e"
+	}, {
+		"question": "Transliterate 'நே'",
+		"questionType": "text",
+		"answer": "n-ee"
+	}, {
+		"question": "Transliterate 'நை'",
+		"questionType": "text",
+		"answer": "n-ai"
+	}, {
+		"question": "Transliterate 'நொ'",
+		"questionType": "text",
+		"answer": "n-o"
+	}, {
+		"question": "Transliterate 'நோ'",
+		"questionType": "text",
+		"answer": "n-oo"
+	}, {
+		"question": "Transliterate 'நௌ'",
+		"questionType": "text",
+		"answer": "n-au"
+	}, {
+		"question": "Transliterate 'ப'",
+		"questionType": "text",
+		"answer": "p-a"
+	}, {
+		"question": "Transliterate 'பா'",
+		"questionType": "text",
+		"answer": "p-aa"
+	}, {
+		"question": "Transliterate 'பி'",
+		"questionType": "text",
+		"answer": "p-i"
+	}, {
+		"question": "Transliterate 'பீ'",
+		"questionType": "text",
+		"answer": "p-ii"
+	}, {
+		"question": "Transliterate 'பு'",
+		"questionType": "text",
+		"answer": "p-u"
+	}, {
+		"question": "Transliterate 'பூ'",
+		"questionType": "text",
+		"answer": "p-uu"
+	}, {
+		"question": "Transliterate 'பெ'",
+		"questionType": "text",
+		"answer": "p-e"
+	}, {
+		"question": "Transliterate 'பே'",
+		"questionType": "text",
+		"answer": "p-ee"
+	}, {
+		"question": "Transliterate 'பை'",
+		"questionType": "text",
+		"answer": "p-ai"
+	}, {
+		"question": "Transliterate 'பொ'",
+		"questionType": "text",
+		"answer": "p-o"
+	}, {
+		"question": "Transliterate 'போ'",
+		"questionType": "text",
+		"answer": "p-oo"
+	}, {
+		"question": "Transliterate 'பௌ'",
+		"questionType": "text",
+		"answer": "p-au"
+	}, {
+		"question": "Transliterate 'ம'",
+		"questionType": "text",
+		"answer": "m-a"
+	}, {
+		"question": "Transliterate 'மா'",
+		"questionType": "text",
+		"answer": "m-aa"
+	}, {
+		"question": "Transliterate 'மி'",
+		"questionType": "text",
+		"answer": "m-i"
+	}, {
+		"question": "Transliterate 'மீ'",
+		"questionType": "text",
+		"answer": "m-ii"
+	}, {
+		"question": "Transliterate 'மு'",
+		"questionType": "text",
+		"answer": "m-u"
+	}, {
+		"question": "Transliterate 'மூ'",
+		"questionType": "text",
+		"answer": "m-uu"
+	}, {
+		"question": "Transliterate 'மெ'",
+		"questionType": "text",
+		"answer": "m-e"
+	}, {
+		"question": "Transliterate 'மே'",
+		"questionType": "text",
+		"answer": "m-ee"
+	}, {
+		"question": "Transliterate 'மை'",
+		"questionType": "text",
+		"answer": "m-ai"
+	}, {
+		"question": "Transliterate 'மொ'",
+		"questionType": "text",
+		"answer": "m-o"
+	}, {
+		"question": "Transliterate 'மோ'",
+		"questionType": "text",
+		"answer": "m-oo"
+	}, {
+		"question": "Transliterate 'மௌ'",
+		"questionType": "text",
+		"answer": "m-au"
+	}, {
+		"question": "Transliterate 'ய'",
+		"questionType": "text",
+		"answer": "y-a"
+	}, {
+		"question": "Transliterate 'யா'",
+		"questionType": "text",
+		"answer": "y-aa"
+	}, {
+		"question": "Transliterate 'யி'",
+		"questionType": "text",
+		"answer": "y-i"
+	}, {
+		"question": "Transliterate 'யீ'",
+		"questionType": "text",
+		"answer": "y-ii"
+	}, {
+		"question": "Transliterate 'யு'",
+		"questionType": "text",
+		"answer": "y-u"
+	}, {
+		"question": "Transliterate 'யூ'",
+		"questionType": "text",
+		"answer": "y-uu"
+	}, {
+		"question": "Transliterate 'யெ'",
+		"questionType": "text",
+		"answer": "y-e"
+	}, {
+		"question": "Transliterate 'யே'",
+		"questionType": "text",
+		"answer": "y-ee"
+	}, {
+		"question": "Transliterate 'யை'",
+		"questionType": "text",
+		"answer": "y-ai"
+	}, {
+		"question": "Transliterate 'யொ'",
+		"questionType": "text",
+		"answer": "y-o"
+	}, {
+		"question": "Transliterate 'யோ'",
+		"questionType": "text",
+		"answer": "y-oo"
+	}, {
+		"question": "Transliterate 'யௌ'",
+		"questionType": "text",
+		"answer": "y-au"
+	}, {
+		"question": "Transliterate 'ர'",
+		"questionType": "text",
+		"answer": "r-a"
+	}, {
+		"question": "Transliterate 'ரா'",
+		"questionType": "text",
+		"answer": "r-aa"
+	}, {
+		"question": "Transliterate 'ரி'",
+		"questionType": "text",
+		"answer": "r-i"
+	}, {
+		"question": "Transliterate 'ரீ'",
+		"questionType": "text",
+		"answer": "r-ii"
+	}, {
+		"question": "Transliterate 'ரு'",
+		"questionType": "text",
+		"answer": "r-u"
+	}, {
+		"question": "Transliterate 'ரூ'",
+		"questionType": "text",
+		"answer": "r-uu"
+	}, {
+		"question": "Transliterate 'ரெ'",
+		"questionType": "text",
+		"answer": "r-e"
+	}, {
+		"question": "Transliterate 'ரே'",
+		"questionType": "text",
+		"answer": "r-ee"
+	}, {
+		"question": "Transliterate 'ரை'",
+		"questionType": "text",
+		"answer": "r-ai"
+	}, {
+		"question": "Transliterate 'ரொ'",
+		"questionType": "text",
+		"answer": "r-o"
+	}, {
+		"question": "Transliterate 'ரோ'",
+		"questionType": "text",
+		"answer": "r-oo"
+	}, {
+		"question": "Transliterate 'ரௌ'",
+		"questionType": "text",
+		"answer": "r-au"
+	}, {
+		"question": "Transliterate 'ல'",
+		"questionType": "text",
+		"answer": "l-a"
+	}, {
+		"question": "Transliterate 'லா'",
+		"questionType": "text",
+		"answer": "l-aa"
+	}, {
+		"question": "Transliterate 'லி'",
+		"questionType": "text",
+		"answer": "l-i"
+	}, {
+		"question": "Transliterate 'லீ'",
+		"questionType": "text",
+		"answer": "l-ii"
+	}, {
+		"question": "Transliterate 'லு'",
+		"questionType": "text",
+		"answer": "l-u"
+	}, {
+		"question": "Transliterate 'லூ'",
+		"questionType": "text",
+		"answer": "l-uu"
+	}, {
+		"question": "Transliterate 'லெ'",
+		"questionType": "text",
+		"answer": "l-e"
+	}, {
+		"question": "Transliterate 'லே'",
+		"questionType": "text",
+		"answer": "l-ee"
+	}, {
+		"question": "Transliterate 'லை'",
+		"questionType": "text",
+		"answer": "l-ai"
+	}, {
+		"question": "Transliterate 'லொ'",
+		"questionType": "text",
+		"answer": "l-o"
+	}, {
+		"question": "Transliterate 'லோ'",
+		"questionType": "text",
+		"answer": "l-oo"
+	}, {
+		"question": "Transliterate 'லௌ'",
+		"questionType": "text",
+		"answer": "l-au"
+	}, {
+		"question": "Transliterate 'வ'",
+		"questionType": "text",
+		"answer": "v-a"
+	}, {
+		"question": "Transliterate 'வா'",
+		"questionType": "text",
+		"answer": "v-aa"
+	}, {
+		"question": "Transliterate 'வி'",
+		"questionType": "text",
+		"answer": "v-i"
+	}, {
+		"question": "Transliterate 'வீ'",
+		"questionType": "text",
+		"answer": "v-ii"
+	}, {
+		"question": "Transliterate 'வு'",
+		"questionType": "text",
+		"answer": "v-u"
+	}, {
+		"question": "Transliterate 'வூ'",
+		"questionType": "text",
+		"answer": "v-uu"
+	}, {
+		"question": "Transliterate 'வெ'",
+		"questionType": "text",
+		"answer": "v-e"
+	}, {
+		"question": "Transliterate 'வே'",
+		"questionType": "text",
+		"answer": "v-ee"
+	}, {
+		"question": "Transliterate 'வை'",
+		"questionType": "text",
+		"answer": "v-ai"
+	}, {
+		"question": "Transliterate 'வொ'",
+		"questionType": "text",
+		"answer": "v-o"
+	}, {
+		"question": "Transliterate 'வோ'",
+		"questionType": "text",
+		"answer": "v-oo"
+	}, {
+		"question": "Transliterate 'வௌ'",
+		"questionType": "text",
+		"answer": "v-au"
+	}, {
+		"question": "Transliterate 'ள'",
+		"questionType": "text",
+		"answer": "L-a"
+	}, {
+		"question": "Transliterate 'ளா'",
+		"questionType": "text",
+		"answer": "L-aa"
+	}, {
+		"question": "Transliterate 'ளி'",
+		"questionType": "text",
+		"answer": "L-i"
+	}, {
+		"question": "Transliterate 'ளீ'",
+		"questionType": "text",
+		"answer": "L-ii"
+	}, {
+		"question": "Transliterate 'ளு'",
+		"questionType": "text",
+		"answer": "L-u"
+	}, {
+		"question": "Transliterate 'ளூ'",
+		"questionType": "text",
+		"answer": "L-uu"
+	}, {
+		"question": "Transliterate 'ளெ'",
+		"questionType": "text",
+		"answer": "L-e"
+	}, {
+		"question": "Transliterate 'ளே'",
+		"questionType": "text",
+		"answer": "L-ee"
+	}, {
+		"question": "Transliterate 'ளை'",
+		"questionType": "text",
+		"answer": "L-ai"
+	}, {
+		"question": "Transliterate 'ளொ'",
+		"questionType": "text",
+		"answer": "L-o"
+	}, {
+		"question": "Transliterate 'ளோ'",
+		"questionType": "text",
+		"answer": "L-oo"
+	}, {
+		"question": "Transliterate 'ளௌ'",
+		"questionType": "text",
+		"answer": "L-au"
+	}, {
+		"question": "Transliterate 'ழ'",
+		"questionType": "text",
+		"answer": "zh-a"
+	}, {
+		"question": "Transliterate 'ழா'",
+		"questionType": "text",
+		"answer": "zh-aa"
+	}, {
+		"question": "Transliterate 'ழி'",
+		"questionType": "text",
+		"answer": "zh-i"
+	}, {
+		"question": "Transliterate 'ழீ'",
+		"questionType": "text",
+		"answer": "zh-ii"
+	}, {
+		"question": "Transliterate 'ழு'",
+		"questionType": "text",
+		"answer": "zh-u"
+	}, {
+		"question": "Transliterate 'ழூ'",
+		"questionType": "text",
+		"answer": "zh-uu"
+	}, {
+		"question": "Transliterate 'ழெ'",
+		"questionType": "text",
+		"answer": "zh-e"
+	}, {
+		"question": "Transliterate 'ழே'",
+		"questionType": "text",
+		"answer": "zh-ee"
+	}, {
+		"question": "Transliterate 'ழை'",
+		"questionType": "text",
+		"answer": "zh-ai"
+	}, {
+		"question": "Transliterate 'ழொ'",
+		"questionType": "text",
+		"answer": "zh-o"
+	}, {
+		"question": "Transliterate 'ழோ'",
+		"questionType": "text",
+		"answer": "zh-oo"
+	}, {
+		"question": "Transliterate 'ழௌ'",
+		"questionType": "text",
+		"answer": "zh-au"
+	}, {
+		"question": "Transliterate 'ற'",
+		"questionType": "text",
+		"answer": "R-a"
+	}, {
+		"question": "Transliterate 'றா'",
+		"questionType": "text",
+		"answer": "R-aa"
+	}, {
+		"question": "Transliterate 'றி'",
+		"questionType": "text",
+		"answer": "R-i"
+	}, {
+		"question": "Transliterate 'றீ'",
+		"questionType": "text",
+		"answer": "R-ii"
+	}, {
+		"question": "Transliterate 'று'",
+		"questionType": "text",
+		"answer": "R-u"
+	}, {
+		"question": "Transliterate 'றூ'",
+		"questionType": "text",
+		"answer": "R-uu"
+	}, {
+		"question": "Transliterate 'றெ'",
+		"questionType": "text",
+		"answer": "R-e"
+	}, {
+		"question": "Transliterate 'றே'",
+		"questionType": "text",
+		"answer": "R-ee"
+	}, {
+		"question": "Transliterate 'றை'",
+		"questionType": "text",
+		"answer": "R-ai"
+	}, {
+		"question": "Transliterate 'றொ'",
+		"questionType": "text",
+		"answer": "R-o"
+	}, {
+		"question": "Transliterate 'றோ'",
+		"questionType": "text",
+		"answer": "R-oo"
+	}, {
+		"question": "Transliterate 'றௌ'",
+		"questionType": "text",
+		"answer": "R-au"
+	}, {
+		"question": "Transliterate 'ன'",
+		"questionType": "text",
+		"answer": "nn-a"
+	}, {
+		"question": "Transliterate 'னா'",
+		"questionType": "text",
+		"answer": "nn-aa"
+	}, {
+		"question": "Transliterate 'னி'",
+		"questionType": "text",
+		"answer": "nn-i"
+	}, {
+		"question": "Transliterate 'னீ'",
+		"questionType": "text",
+		"answer": "nn-ii"
+	}, {
+		"question": "Transliterate 'னு'",
+		"questionType": "text",
+		"answer": "nn-u"
+	}, {
+		"question": "Transliterate 'னூ'",
+		"questionType": "text",
+		"answer": "nn-uu"
+	}, {
+		"question": "Transliterate 'னெ'",
+		"questionType": "text",
+		"answer": "nn-e"
+	}, {
+		"question": "Transliterate 'னே'",
+		"questionType": "text",
+		"answer": "nn-ee"
+	}, {
+		"question": "Transliterate 'னை'",
+		"questionType": "text",
+		"answer": "nn-ai"
+	}, {
+		"question": "Transliterate 'னொ'",
+		"questionType": "text",
+		"answer": "nn-o"
+	}, {
+		"question": "Transliterate 'னோ'",
+		"questionType": "text",
+		"answer": "nn-oo"
+	}, {
+		"question": "Transliterate 'னௌ'",
+		"questionType": "text",
+		"answer": "nn-au"
+	}]
 
 }
