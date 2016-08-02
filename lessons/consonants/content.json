@@ -3,75 +3,75 @@
 		"terms": [{
 			"term": "க்",
 			"definition": "Our Notation: k | KA: ಕ್ | IPA: k",
-			"description": ""
-		},{
+			"description": "Sounds like 'k' in 'skate'"
+		}, {
 			"term": "ங்",
 			"definition": "Our Notation: ng | KA: ಙ್ | IPA: ŋ",
-			"description": ""
-		},{
+			"description": "Sounds like 'ng' in 'song'"
+		}, {
 			"term": "ச்",
 			"definition": "Our Notation: c | KA: ಚ್ | IPA: s",
-			"description": ""
-		},{
+			"description": "Sounds like 's' in 'sun' and 'ch' in 'catch'"
+		}, {
 			"term": "ஞ்",
 			"definition": "Our Notation: nj | KA: ಞ್ | IPA: ɲ",
-			"description": ""
-		},{
+			"description": "'ny' in 'canyon'"
+		}, {
 			"term": "ட்",
 			"definition": "Our Notation: t | KA: ಟ್ | IPA: ʈ",
-			"description": ""
-		},{
+			"description": "like 't' in stable, but with the tongue retracted"
+		}, {
 			"term": "ண்",
 			"definition": "Our Notation: N | KA: ಣ್ | IPA: ɳ",
-			"description": ""
-		},{
+			"description": "similar to 'n' in not, but with the tongue retracted"
+		}, {
 			"term": "த்",
 			"definition": "Our Notation: th | KA: ತ್ | IPA: t̪",
-			"description": ""
-		},{
+			"description": "'th' in 'Thailand'"
+		}, {
 			"term": "ந்",
 			"definition": "Our Notation: n | KA: ನ್ | IPA: n",
-			"description": ""
-		},{
+			"description": "similar to 'n' in net, but with the tongue touching the back of the front teeth"
+		}, {
 			"term": "ப்",
 			"definition": "Our Notation: p | KA: ಪ್  | IPA: p",
-			"description": ""
-		},{
+			"description": "like 'p' in 'pat'"
+		}, {
 			"term": "ம்",
 			"definition": "Our Notation: m | KA: ಮ್  | IPA: m",
-			"description": ""
-		},{
+			"description": "'m' in 'much'"
+		}, {
 			"term": "ய்",
 			"definition": "Our Notation: y | KA: ಯ್ | IPA: j",
-			"description": ""
-		},{
+			"description": "'y' in 'yawn'"
+		}, {
 			"term": "ர்",
 			"definition": "Our Notation: r | KA: ರ್ | IPA: r",
-			"description": ""
-		},{
+			"description": "'r' in 'rally'"
+		}, {
 			"term": "ல்",
 			"definition": "Our Notation: l | KA: ಲ್ | IPA: l",
-			"description": ""
-		},{
+			"description": "similar to 'l' in let, but with the tongue touching the back of the front teeth"
+		}, {
 			"term": "வ்",
 			"definition": "Our Notation: v | KA: ವ್ | IPA: ʋ",
-			"description": ""
-		},{
+			"description": "between w and v; Dutch wang"
+		}, {
 			"term": "ள்",
 			"definition": "Our Notation: L | KA: ಳ್ | IPA: ɭ",
-			"description": ""
-		},{
+			"description": "similar to 'l' in let, but with the tongue retracted"
+		}, {
 			"term": "ழ்",
 			"definition": "Our Notation: zh | KA: approximated to ಳ್ | IPA: ɻ",
-			"description": ""
-		},{
+			"description": "like 'r' in rotten, but with the tongue retracted"
+		}, {
 			"term": "ற்",
 			"definition": "Our Notation: R | KA: approximated to ರ್ | IPA: r",
-			"description": ""
-		},{
+			"description": "similar to 'r' in 'trilled'"
+		}, {
 			"term": "ன்",
 			"definition": "Our Notation: nn | KA: approximated to ಣ್ | IPA: n",
-			"description": ""
+			"description": "like 'n' in 'not'"
 		}]
 	}
 }
