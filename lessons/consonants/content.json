@@ -1,3 +1,77 @@
 {
 	"content": {
-		"terms": []}}
+		"terms": [{
+			"term": "க்",
+			"definition": "Our Notation: k | KA: ಕ್ | IPA: ",
+			"description": ""
+		},{
+			"term": "ங்",
+			"definition": "Our Notation: ng | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ச்",
+			"definition": "Our Notation: c | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ஞ்",
+			"definition": "Our Notation: nj | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ட்",
+			"definition": "Our Notation: t | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ண்",
+			"definition": "Our Notation: N | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "த்",
+			"definition": "Our Notation: th | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ந்",
+			"definition": "Our Notation: n | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ப்",
+			"definition": "Our Notation: p | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ம்",
+			"definition": "Our Notation: m | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ய்",
+			"definition": "Our Notation: y | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ர்",
+			"definition": "Our Notation: r | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ல்",
+			"definition": "Our Notation: l | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "வ்",
+			"definition": "Our Notation: v | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ள்",
+			"definition": "Our Notation: L | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ழ்",
+			"definition": "Our Notation: zh | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ற்",
+			"definition": "Our Notation: R | KA:  | IPA: ",
+			"description": ""
+		},{
+			"term": "ன்",
+			"definition": "Our Notation: nn | KA:  | IPA: ",
+			"description": ""
+		}]
+	}
+}
