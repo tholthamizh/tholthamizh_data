@@ -1,6 +1,7 @@
 {
   "lessons":[
     {"id":"vowels1","name":"Vowels" },
-    {"id":"consonants","name":"Consonants"}
+    {"id":"consonants","name":"Consonants"},
+    {"id":"combinations","name":"Combinations"}
   ]
 }
