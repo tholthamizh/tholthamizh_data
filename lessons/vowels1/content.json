@@ -1,6 +1,10 @@
 {
 	"content": {
 		"terms": [{
+			"term": "Note",
+			"definition": "",
+			"description": "The english alphabets with caption 'our notation' will be used throughout our website as transliteration to Tamil alphabets. Along with this, IPA equivalent and Kannada equivalent will be given in some sections"
+		}, {
 			"term": "அ",
 			"definition": "a | ಅ",
 			"description": "First letter of tamil alphabet. Sounds like 'u' in the word 'nut'"
