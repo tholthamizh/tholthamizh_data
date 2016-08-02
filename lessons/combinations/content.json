@@ -1,6 +1,10 @@
 {
 	"content": {
 		"terms": [{
+			"term": "Combinations",
+			"definition": "Combinations occur when consonants mix with vowels.There are twelve vowels and eighteen consonants; this results in 216 combinations",
+			"description": "The below decks are of the form : x+a, x+aa, x+i, x+ii, x+u, x+uu, x+e, x+ee, x+ai, x+o, x+oo, x+au"
+		}, {
 			"term": "க கா கி கீ கு கூ கெ கே கை கொ கோ கௌ"
 		}, {
 			"term": "ங ஙா ஙி ஙீ ஙு ஙூ ஙெ ஙே ஙை ஙொ ஙோ ஙௌ"
