@@ -19,7 +19,10 @@
 		}, {
 			"term": "New words",
 			"definition": "New words introduced in this section",
-			"description": "மதியன் - Wise man; திருமால் - Lord Vishnu; பூனை - cat; மண் - soil; கல் - stone"
+			"description": "மதியன் - Wise man<br/>திருமால் - Lord Vishnu<br/>பூனை - cat<br/>மண் - soil<br/>கல் - stone"
+		}, {
+			"term": "Reference",
+			"description": "<b>Nannool</b><br/>மக்கள் தேவர் நரகர் உயர்திணை<br/>மற்று உயிர் உள்ளவும் இல்லவும் அஃறிணை"
 		}]
 	}
 }
