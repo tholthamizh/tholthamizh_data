@@ -1,0 +1,78 @@
+{
+	"questions": [{
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - மாணவன் ",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "ஆண்பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - இராவணன் ",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "ஆண்பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - இராமன் ",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "ஆண்பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - மாணவி",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "பெண்பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - சீதை",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "பெண்பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - மாணவர்கள்",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "பலர்பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - மக்கள்",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "பலர்பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - ஆசிரியர்",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "பலர்பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - மருத்துவர்",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "பலர்பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - யானை",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "ஒன்றன் பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - ஆடு",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "ஒன்றன் பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - மலை",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "ஒன்றன் பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - யானைகள்",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "பலவின் பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - ஆடைகள்",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "பலவின் பால்"
+	}, {
+		"questionType": "choice",
+		"question": "Select the correct பால் for the word - யானைகள்",
+		"choices": ["ஆண்பால்", "பெண்பால்", "பலர்பால்", "ஒன்றன் பால்", "பலவின் பால்"],
+		"answer": "பலவின் பால்"
+	}]
+}
