@@ -1,1 +1,42 @@
 
+{
+	"content": {
+		"terms": [{
+			"term": "பால் [p-aa-l]",
+			"definition": "English meaning of 'பால்' is division",
+			"description": "Nouns in Tamil language are classified based on பால் into two categories. They are உயர்திணைப் பால் [u-y-a-r-th-i-N-ai] and அஃறிணைப் பால் [a-h-R-i-N-ai]"
+		}, {
+			"term": "உயர்திணைப் பால்",
+			"definition": "If the noun denotes an உயர்திணை object, its பால் is called உயர்திணைப் பால்",
+			"description": "This category has three sub-categories: 1) ஆண் பால் 2) பெண் பால் and 3) பலர் பால்"
+		}, {
+			"term": "அஃறிணைப் பால்",
+			"definition": "If the noun denotes an அஃறிணைப் object, its பால் is called அஃறிணைப் பால்",
+			"description": "This category has two sub-categories: 1) ஒன்றன் பால் and 2) பலவின் பால்"
+		}, {
+			"term": "ஆண்பால் [Masculine Singular]",
+			"definition": "Nouns denoting objects of masculine gender which belong to உயர்திணை",
+			"description": "Example: சென்னியன், இராமன்"
+		}, {
+			"term": "பெண்பால் [Feminine Singular]",
+			"definition": "Nouns denoting objects of feminine gender which belong to உயர்திணை",
+			"description": "Example: சீதை, ராணி"
+		}, {
+			"term": "பலர்பால் [Plural]",
+			"definition": "Nouns denoting multiple objects belonging to உயர்திணை",
+			"description": "Example: ஆண்கள், மக்கள்"
+		}, {
+			"term": "ஒன்றன் பால் [Singular]",
+			"definition": "Nouns denoting single அஃறிணை object",
+			"description": "Example: கோழி, மரம் "
+		}, {
+			"term": "பலவின் பால் [Plural]",
+			"definition": "Nouns denoting more than one அஃறிணை objects",
+			"description": "Example: கோழிகள், மரங்கள் "
+		}, {
+			"term": "மதிப்புப் பன்மை [Plural for respect]",
+			"definition": "If a person belonging to ஆண்பால் or பெண்பால் and if he is a respectable person, it is common to treat them as பலர்பால். This is called மதிப்புப் பன்மை",
+			"description": "Example: கொல்லர் சென்றார்"
+		}]
+	}
+}
