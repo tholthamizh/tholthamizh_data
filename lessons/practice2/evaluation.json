@@ -1,0 +1,460 @@
+{
+	"questions": [{
+		"question": "Transliterate 'வணக்கம்'",
+		"questionType": "text",
+		"answer": "v-a-N-a-k-k-a-m"
+	}, {
+		"question": "Transliterate 'அப்படியா'",
+		"questionType": "text",
+		"answer": "a-p-p-a-t-i-y-aa"
+	}, {
+		"question": "Transliterate 'ஆமாம்'",
+		"questionType": "text",
+		"answer": "aa-m-aa-m"
+	}, {
+		"question": "Transliterate 'இல்லை'",
+		"questionType": "text",
+		"answer": "i-l-l-ai"
+	}, {
+		"question": "Transliterate 'சரி'",
+		"questionType": "text",
+		"answer": "c-a-r-i"
+	}, {
+		"question": "Transliterate 'ஆசிரியர்'",
+		"questionType": "text",
+		"answer": "aa-c-i-r-i-y-a-r"
+	}, {
+		"question": "Transliterate 'ஆங்கிலம்'",
+		"questionType": "text",
+		"answer": "aa-ng-k-i-l-a-m"
+	}, {
+		"question": "Transliterate 'ஆறு'",
+		"questionType": "text",
+		"answer": "aa-R-u"
+	}, {
+		"question": "Transliterate 'இரும்பு'",
+		"questionType": "text",
+		"answer": "i-r-u-m-p-u"
+	}, {
+		"question": "Transliterate 'ஈ'",
+		"questionType": "text",
+		"answer": "ii"
+	}, {
+		"question": "Transliterate 'உயரம்'",
+		"questionType": "text",
+		"answer": "u-y-a-r-a-m"
+	}, {
+		"question": "Transliterate 'ஊர்'",
+		"questionType": "text",
+		"answer": "uu-r"
+	}, {
+		"question": "Transliterate 'உள்'",
+		"questionType": "text",
+		"answer": "u-L"
+	}, {
+		"question": "Transliterate 'கண்'",
+		"questionType": "text",
+		"answer": "k-a-N"
+	}, {
+		"question": "Transliterate 'கடை'",
+		"questionType": "text",
+		"answer": "k-a-t-ai"
+	}, {
+		"question": "Transliterate 'கல்'",
+		"questionType": "text",
+		"answer": "k-a-l"
+	}, {
+		"question": "Transliterate 'கொசு'",
+		"questionType": "text",
+		"answer": "k-o-c-u"
+	}, {
+		"question": "Transliterate 'காடு'",
+		"questionType": "text",
+		"answer": "k-aa-t-u"
+	}, {
+		"question": "Transliterate 'கால்'",
+		"questionType": "text",
+		"answer": "k-aa-l"
+	}, {
+		"question": "Transliterate 'சாமி'",
+		"questionType": "text",
+		"answer": "c-aa-m-i"
+	}, {
+		"question": "Transliterate 'சிலை'",
+		"questionType": "text",
+		"answer": "c-i-l-ai"
+	}, {
+		"question": "Transliterate 'சிநேகிதன்'",
+		"questionType": "text",
+		"answer": "c-i-n-ee-k-i-th-a-nn"
+	}, {
+		"question": "Transliterate 'சௌக்கியம்'",
+		"questionType": "text",
+		"answer": "c-au-k-k-i-y-a-m"
+	}, {
+		"question": "Transliterate 'தமிழ்'",
+		"questionType": "text",
+		"answer": "th-a-m-i-zh"
+	}, {
+		"question": "Transliterate 'தெரு'",
+		"questionType": "text",
+		"answer": "th-e-r-u"
+	}, {
+		"question": "Transliterate 'பசு'",
+		"questionType": "text",
+		"answer": "p-a-c-u"
+	}, {
+		"question": "Transliterate 'பழம்'",
+		"questionType": "text",
+		"answer": "p-a-zh-a-m"
+	}, {
+		"question": "Transliterate 'பாட்டு'",
+		"questionType": "text",
+		"answer": "p-aa-t-t-u"
+	}, {
+		"question": "Transliterate 'பால்யம்'",
+		"questionType": "text",
+		"answer": "p-aa-l-y-a-m"
+	}, {
+		"question": "Transliterate 'பால்'",
+		"questionType": "text",
+		"answer": "p-aa-l"
+	}, {
+		"question": "Transliterate 'பையன்'",
+		"questionType": "text",
+		"answer": "p-ai-y-a-nn"
+	}, {
+		"question": "Transliterate 'பெயர்'",
+		"questionType": "text",
+		"answer": "p-e-y-a-r"
+	}, {
+		"question": "Transliterate 'புத்தகம்'",
+		"questionType": "text",
+		"answer": "p-u-th-th-a-k-a-m"
+	}, {
+		"question": "Transliterate 'பூ'",
+		"questionType": "text",
+		"answer": "p-uu"
+	}, {
+		"question": "Transliterate 'பொட்டு'",
+		"questionType": "text",
+		"answer": "p-o-t-t-u"
+	}, {
+		"question": "Transliterate 'மகிழ்ச்சி'",
+		"questionType": "text",
+		"answer": "m-a-k-i-zh-c-c-i"
+	}, {
+		"question": "Transliterate 'மனைவி'",
+		"questionType": "text",
+		"answer": "m-a-nn-ai-v-i"
+	}, {
+		"question": "Transliterate 'மரம்'",
+		"questionType": "text",
+		"answer": "m-a-r-a-m"
+	}, {
+		"question": "Transliterate 'மேசை'",
+		"questionType": "text",
+		"answer": "m-ee-c-ai"
+	}, {
+		"question": "Transliterate 'மொழி'",
+		"questionType": "text",
+		"answer": "m-o-zh-i"
+	}, {
+		"question": "Transliterate 'வாத்தியார்'",
+		"questionType": "text",
+		"answer": "v-aa-th-th-i-y-aa-r"
+	}, {
+		"question": "Transliterate 'வீடு'",
+		"questionType": "text",
+		"answer": "v-ii-t-u"
+	}, {
+		"question": "Transliterate 'வெளியே'",
+		"questionType": "text",
+		"answer": "v-e-L-i-y-ee"
+	}, {
+		"question": "Transliterate 'மதுரை'",
+		"questionType": "text",
+		"answer": "m-a-th-u-r-ai"
+	}, {
+		"question": "Transliterate 'சிதம்பரம்'",
+		"questionType": "text",
+		"answer": "c-i-th-a-m-p-a-r-a-m"
+	}, {
+		"question": "Transliterate 'பழனி'",
+		"questionType": "text",
+		"answer": "p-a-zh-a-nn-i"
+	}, {
+		"question": "Transliterate 'வள்ளி'",
+		"questionType": "text",
+		"answer": "v-a-L-L-i"
+	}, {
+		"question": "Transliterate 'முருகன்'",
+		"questionType": "text",
+		"answer": "m-u-r-u-k-a-nn"
+	}, {
+		"question": "Transliterate 'மேரி'",
+		"questionType": "text",
+		"answer": "m-ee-r-i"
+	}, {
+		"question": "Transliterate 'சீனிவாசன்'",
+		"questionType": "text",
+		"answer": "c-ii-nn-i-v-aa-c-a-nn"
+	}, {
+		"question": "Transliterate 'சீனு'",
+		"questionType": "text",
+		"answer": "c-ii-nn-u"
+	}, {
+		"question": "Transliterate 'அம்மா'",
+		"questionType": "text",
+		"answer": "a-m-m-aa"
+	}, {
+		"question": "Transliterate 'அப்பா'",
+		"questionType": "text",
+		"answer": "a-p-p-aa"
+	}, {
+		"question": "Transliterate 'தம்பி'",
+		"questionType": "text",
+		"answer": "th-a-m-p-i"
+	}, {
+		"question": "Transliterate 'அண்ணன்'",
+		"questionType": "text",
+		"answer": "a-N-N-a-nn"
+	}, {
+		"question": "Transliterate 'தங்கை'",
+		"questionType": "text",
+		"answer": "th-a-ng-k-ai"
+	}, {
+		"question": "Transliterate 'அக்கா'",
+		"questionType": "text",
+		"answer": "a-k-k-aa"
+	}, {
+		"question": "Transliterate 'தாத்தா'",
+		"questionType": "text",
+		"answer": "th-aa-th-th-aa"
+	}, {
+		"question": "Transliterate 'பாட்டி'",
+		"questionType": "text",
+		"answer": "p-aa-t-t-i"
+	}, {
+		"question": "Transliterate 'மாமா'",
+		"questionType": "text",
+		"answer": "m-aa-m-aa"
+	}, {
+		"question": "Transliterate 'சார்'",
+		"questionType": "text",
+		"answer": "c-aa-r"
+	}, {
+		"question": "Transliterate 'கழுத்து'",
+		"questionType": "text",
+		"answer": "k-a-zh-u-th-th-u"
+	}, {
+		"question": "Transliterate 'கை'",
+		"questionType": "text",
+		"answer": "k-ai"
+	}, {
+		"question": "Transliterate 'கண்'",
+		"questionType": "text",
+		"answer": "k-a-N"
+	}, {
+		"question": "Transliterate 'கால்'",
+		"questionType": "text",
+		"answer": "k-aa-l"
+	}, {
+		"question": "Transliterate 'காது'",
+		"questionType": "text",
+		"answer": "k-aa-th-u"
+	}, {
+		"question": "Transliterate 'சடை'",
+		"questionType": "text",
+		"answer": "c-a-t-ai"
+	}, {
+		"question": "Transliterate 'தலை'",
+		"questionType": "text",
+		"answer": "th-a-l-ai"
+	}, {
+		"question": "Transliterate 'நெற்றி'",
+		"questionType": "text",
+		"answer": "n-e-R-R-i"
+	}, {
+		"question": "Transliterate 'பல்'",
+		"questionType": "text",
+		"answer": "p-a-l"
+	}, {
+		"question": "Transliterate 'பாதம்'",
+		"questionType": "text",
+		"answer": "p-aa-th-a-m"
+	}, {
+		"question": "Transliterate 'முடி'",
+		"questionType": "text",
+		"answer": "m-u-t-i"
+	}, {
+		"question": "Transliterate 'மூக்கு'",
+		"questionType": "text",
+		"answer": "m-uu-k-k-u"
+	}, {
+		"question": "Transliterate 'விரல்'",
+		"questionType": "text",
+		"answer": "v-i-r-a-l"
+	}, {
+		"question": "Transliterate 'வாய்'",
+		"questionType": "text",
+		"answer": "v-aa-y"
+	}, {
+		"question": "Transliterate 'என்'",
+		"questionType": "text",
+		"answer": "e-nn"
+	}, {
+		"question": "Transliterate 'உன்'",
+		"questionType": "text",
+		"answer": "u-nn"
+	}, {
+		"question": "Transliterate 'உங்கள்'",
+		"questionType": "text",
+		"answer": "u-ng-k-a-L"
+	}, {
+		"question": "Transliterate 'அவர்'",
+		"questionType": "text",
+		"answer": "a-v-a-r"
+	}, {
+		"question": "Transliterate 'இவர்'",
+		"questionType": "text",
+		"answer": "i-v-a-r"
+	}, {
+		"question": "Transliterate 'அவன்'",
+		"questionType": "text",
+		"answer": "a-v-a-nn"
+	}, {
+		"question": "Transliterate 'இவன்'",
+		"questionType": "text",
+		"answer": "i-v-a-nn"
+	}, {
+		"question": "Transliterate 'அவள்'",
+		"questionType": "text",
+		"answer": "a-v-a-L"
+	}, {
+		"question": "Transliterate 'இவள்'",
+		"questionType": "text",
+		"answer": "i-v-a-L"
+	}, {
+		"question": "Transliterate 'இது'",
+		"questionType": "text",
+		"answer": "i-th-u"
+	}, {
+		"question": "Transliterate 'அது'",
+		"questionType": "text",
+		"answer": "a-th-u"
+	}, {
+		"question": "Transliterate 'இந்த'",
+		"questionType": "text",
+		"answer": "i-n-th-a"
+	}, {
+		"question": "Transliterate 'அந்த'",
+		"questionType": "text",
+		"answer": "a-n-th-a"
+	}, {
+		"question": "Transliterate 'இப்படி'",
+		"questionType": "text",
+		"answer": "i-p-p-a-t-i"
+	}, {
+		"question": "Transliterate 'அப்படி'",
+		"questionType": "text",
+		"answer": "a-p-p-a-t-i"
+	}, {
+		"question": "Transliterate 'இவ்வளவு'",
+		"questionType": "text",
+		"answer": "i-v-v-a-L-a-v-u"
+	}, {
+		"question": "Transliterate 'அவ்வளவு'",
+		"questionType": "text",
+		"answer": "a-v-v-a-L-a-v-u"
+	}, {
+		"question": "Transliterate 'இத்தனை'",
+		"questionType": "text",
+		"answer": "i-th-th-a-nn-ai"
+	}, {
+		"question": "Transliterate 'அத்தனை'",
+		"questionType": "text",
+		"answer": "a-th-th-a-nn-ai"
+	}, {
+		"question": "Transliterate 'இப்பொழுது'",
+		"questionType": "text",
+		"answer": "i-p-p-o-zh-u-th-u"
+	}, {
+		"question": "Transliterate 'அப்பொழுது'",
+		"questionType": "text",
+		"answer": "a-p-p-o-zh-u-th-u"
+	}, {
+		"question": "Transliterate 'யார்'",
+		"questionType": "text",
+		"answer": "y-aa-r"
+	}, {
+		"question": "Transliterate 'என்ன'",
+		"questionType": "text",
+		"answer": "e-nn-nn-a"
+	}, {
+		"question": "Transliterate 'எது'",
+		"questionType": "text",
+		"answer": "e-th-u"
+	}, {
+		"question": "Transliterate 'எந்த'",
+		"questionType": "text",
+		"answer": "e-n-th-a"
+	}, {
+		"question": "Transliterate 'எத்தனை'",
+		"questionType": "text",
+		"answer": "e-th-th-a-nn-ai"
+	}, {
+		"question": "Transliterate 'எப்படி'",
+		"questionType": "text",
+		"answer": "e-p-p-a-t-i"
+	}, {
+		"question": "Transliterate 'எப்பொழுது'",
+		"questionType": "text",
+		"answer": "e-p-p-o-zh-u-th-u"
+	}, {
+		"question": "Transliterate 'எவ்வளவு'",
+		"questionType": "text",
+		"answer": "e-v-v-a-L-a-v-u"
+	}, {
+		"question": "Transliterate 'ஏன்'",
+		"questionType": "text",
+		"answer": "ee-nn"
+	}, {
+		"question": "Transliterate 'அழகான'",
+		"questionType": "text",
+		"answer": "a-zh-a-k-aa-nn-a"
+	}, {
+		"question": "Transliterate 'கொஞ்சம்'",
+		"questionType": "text",
+		"answer": "k-o-nj-c-a-m"
+	}, {
+		"question": "Transliterate 'சின்ன'",
+		"questionType": "text",
+		"answer": "c-i-nn-nn-a"
+	}, {
+		"question": "Transliterate 'சுட்டி'",
+		"questionType": "text",
+		"answer": "c-u-t-t-i"
+	}, {
+		"question": "Transliterate 'நல்ல'",
+		"questionType": "text",
+		"answer": "n-a-l-l-a"
+	}, {
+		"question": "Transliterate 'நிறைய'",
+		"questionType": "text",
+		"answer": "n-i-R-ai-y-a"
+	}, {
+		"question": "Transliterate 'பெரிய'",
+		"questionType": "text",
+		"answer": "p-e-r-i-y-a"
+	}, {
+		"question": "Transliterate 'சொல்'",
+		"questionType": "text",
+		"answer": "c-o-l"
+	}, {
+		"question": "Transliterate 'வா'",
+		"questionType": "text",
+		"answer": "v-aa"
+	}]
+
+}
