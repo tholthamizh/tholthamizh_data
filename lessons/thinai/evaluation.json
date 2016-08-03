@@ -1,32 +1,32 @@
 {
 	"questions": [{
 		"questionType": "choice",
-		"question": "Based on திணை, how do you classify the word சாலை",
+		"question": "Based on திணை, how do you classify the word சாலை?",
 		"choices": ["உயர்திணை", "அஃறிணை", "Both"],
 		"answer": "அஃறிணை"
 	}, {
 		"questionType": "choice",
-		"question": "Based on திணை, how do you classify the word சிவன்",
+		"question": "Based on திணை, how do you classify the word சிவன்?",
 		"choices": ["உயர்திணை", "அஃறிணை", "Both"],
 		"answer": "உயர்திணை"
 	}, {
 		"questionType": "choice",
-		"question": "Based on திணை, how do you classify the word இந்திரன்",
+		"question": "Based on திணை, how do you classify the word இந்திரன்?",
 		"choices": ["உயர்திணை", "அஃறிணை", "Both"],
 		"answer": "உயர்திணை"
 	}, {
 		"questionType": "choice",
-		"question": "Based on திணை, how do you classify the word மலை",
+		"question": "Based on திணை, how do you classify the word மலை?",
 		"choices": ["உயர்திணை", "அஃறிணை", "Both"],
 		"answer": "அஃறிணை"
 	}, {
 		"questionType": "choice",
-		"question": "Based on திணை, how do you classify the word பேய்",
+		"question": "Based on திணை, how do you classify the word பேய்?",
 		"choices": ["உயர்திணை", "அஃறிணை", "Both"],
 		"answer": "Both"
 	}, {
 		"questionType": "choice",
-		"question": "Based on திணை, how do you classify the word தாய்",
+		"question": "Based on திணை, how do you classify the word தாய்?",
 		"choices": ["உயர்திணை", "அஃறிணை", "Both"],
 		"answer": "Both"
 	}]
