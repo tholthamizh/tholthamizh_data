@@ -3,59 +3,7 @@
 		"terms": [{
 			"term": "Note",
 			"definition": "",
-			"description": "The english alphabets with caption 'our notation' will be used throughout our website as transliteration to Tamil alphabets. Along with this, IPA equivalent and Kannada equivalent will be given in some sections"
-		}, {
-			"term": "அ",
-			"definition": "Our Notation: a | KA: ಅ | IPA: ə",
-			"description": "First letter of tamil alphabet. Sounds like 'u' in the word 'nut'"
-		}, {
-			"term": "ஆ",
-			"definition": "Our Notation: aa । KA: ಆ | IPA: ɑː ",
-			"description": "Sounds like 'a' in the word 'car'"
-		}, {
-			"term": "இ",
-			"definition": "Our Notation: i । KA: ಇ | IPA: ɪˑ",
-			"description": "Sounds like 'i' in the word 'dill'"
-		}, {
-			"term": "ஈ",
-			"definition": "Our Notation: ii । KA: ಈ | IPA: iˑ",
-			"description": "Sounds like 'ee' in the word 'feet'"
-		}, {
-			"term": "உ",
-			"definition": "Our Notation: u । KA: ಉ | IPA: ʷʉ",
-			"description": "Sounds like 'oo' in the word 'look'"
-		}, {
-			"term": "ஊ",
-			"definition": "Our Notation: uu । KA: ಊ | IPA: uˑ",
-			"description": "Sounds like 'oo' in the word 'loot'"
-		}, {
-			"term": "எ",
-			"definition": "Our Notation: e । KA: ಎ | IPA: ʲɛ",
-			"description": "Sounds like 'e' in the word 'yell'"
-		}, {
-			"term": "ஏ",
-			"definition": "Our Notation: ee । KA: ಏ | IPA: eˑ",
-			"description": "Sounds like 'a' in the word 'yale'"
-		}, {
-			"term": "ஐ",
-			"definition": "Our Notation: ai । KA: ಐ | IPA: əj",
-			"description": "Sounds like 'i' in the word 'kite'"
-		}, {
-			"term": "ஒ",
-			"definition": "Our Notation: o । KA: ಒ | IPA: ʷo ",
-			"description": "Sounds like 'ou' in the word 'court'"
-		}, {
-			"term": "ஓ",
-			"definition": "Our Notation: oo । KA: ಓ | IPA: oˑ ",
-			"description": "Sounds like 'o' in the word 'old'"
-		}, {
-			"term": "ஔ",
-			"definition": "Our Notation: au । KA: ಔ | IPA: əʋ ",
-			"description": "Sounds like 'ou' in the word 'house'"
-		}, {
-			"term": "ஃ",
-			"definition": "IPA: g",
-			"description": ""
+			"description": "Please switch to Self Evaluation tab and practise till you get the transliteration for most of the words correct. Go through the previous sections for reference. Repeat till you get the transliteration correct for most(>80%) of the words."
 		}]
 	}
 }
