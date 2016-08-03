@@ -1,0 +1,17 @@
+{
+	"content": {
+		"terms": [{
+			"term": "எண் [e-N]",
+			"definition": "English meaning of 'எண்' is number/count",
+			"description": "Nouns in Tamil language are classified based on எண் into two categories. They are ஒருமை [singular] and பன்மை [plural]"
+		}, {
+			"term": "ஒருமை",
+			"definition": "Denoting a single object",
+			"description": "ஆண்பால், பெண்பால் and ஒன்றன்பால் comes under this category<br/>Examples are : திருமால், இராணி, ஆடு "
+		}, {
+			"term": "பன்மை",
+			"definition": "Denoting multiple objects",
+			"description": "பலர் பால் and பலவின் பால் falls under this category<br/>Examples are : மக்கள், ஆடுகள்"
+		}]
+	}
+}
