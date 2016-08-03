@@ -1,0 +1,17 @@
+{
+	"content": {
+		"terms": [{
+			"term": "திணை [th-i-N-ai]",
+			"definition": "English meaning of 'திணை' is nobleness",
+			"description": "Nouns in Tamil language are classified based on திணை into two categories. They are உயர்திணை [u-y-a-r-th-i-N-ai] and அஃறிணை [a-h-R-i-N-ai]"
+		}, {
+			"term": "உயர்திணை",
+			"definition": "உயர்திணை is used to denote Gods and people who are knowlegable",
+			"description": "Examples are : மதியன், திருமால்"
+		}, {
+			"term": "அஃறிணை",
+			"definition": "All living and non living thins which are not உயர்திணை are அஃறிணை",
+			"description": "Examples are : பூனை, மண், கல்"
+		}]
+	}
+}
