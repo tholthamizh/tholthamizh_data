@@ -1,10 +1,24 @@
 {
-  "lessons":[
-    {"id":"vowels1","name":"Vowels" },
-    {"id":"consonants","name":"Consonants"},
-    {"id":"combinations","name":"Combinations"},
-    {"id":"practice1","name":"Practice 1"},
-    {"id":"practice2","name":"Practice 2"},
-    {"id":"thinai","name":"திணை "}
-  ]
+	"lessons": [{
+		"id": "vowels1",
+		"name": "Vowels"
+	}, {
+		"id": "consonants",
+		"name": "Consonants"
+	}, {
+		"id": "combinations",
+		"name": "Combinations"
+	}, {
+		"id": "practice1",
+		"name": "Practice 1"
+	}, {
+		"id": "practice2",
+		"name": "Practice 2"
+	}, {
+		"id": "thinai",
+		"name": "திணை"
+	}, {
+		"id": "paal",
+		"name": "பால்"
+	}]
 }
