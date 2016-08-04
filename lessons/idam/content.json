@@ -7,15 +7,15 @@
 		}, {
 			"term": "தன்மை",
 			"definition": "A person denoting himself when he speaks is called தன்மை",
-			"description": "<b>தன்மை ஒருமை [First person singular]</b><br/>Examples: நான் போகிறேன், யான் போகிறேன்<br/><br/><b>தன்மைப் பன்மை [First person plural]</b><br/>Examples: நாம் சென்றோம், யாம் சென்றோம்  "
+			"description": "<b>தன்மை ஒருமை [First person singular]</b><br/>Examples: நான் போகிறேன், யான் போகிறேன்<br/>நான், யான் - I<br/>நான் போகிறேன், யான் போகிறேன் - I am going<br/><br/><b>தன்மைப் பன்மை [First person plural]</b><br/>Examples: நாம் சென்றோம், யாம் சென்றோம்<br/> நாம், யாம் - We [including the speaker]<br/> நாம் சென்றோம், யாம் சென்றோம் - We are going"
 		}, {
 			"term": "முன்னிலை",
 			"definition": "A person denoting an object in front of him when he speaks is called முன்னிலை",
-			"description": "<b>முன்னிலை ஒருமை [Second person singular]</b><br/>Examples: நீ செய்தாய்<br/><br/><b>முன்னிலை பன்மை [Second person plural]</b><br/>Examples: நீங்கள் செய்தீர்கள் "
+			"description": "<b>முன்னிலை ஒருமை [Second person singular]</b><br/>Examples: நீ செய்தாய்<br/>நீ - You<br/>நீ செய்தாய் - You did<br/><br/><b>முன்னிலை பன்மை [Second person plural]</b><br/>Examples: நீங்கள் செய்தீர்கள் <br/>நீங்கள் - You [plural]<br/>நீங்கள் செய்தீர்கள் - You[plural] did"
 		}, {
 			"term": "படர்க்கை",
 			"definition": "A person denoting an object which is neither தன்மை nor முன்னிலை comes under this category",
-			"description": "<b>படர்க்கை ஒருமை [Third person singular]</b><br/>Examples: அவன் வந்தான், அது வந்தது<br/><br/><b>படர்க்கை பன்மை [Third person plural]</b><br/>Examples: அவர்கள் வந்தனர், அவை வந்தன "
+			"description": "<b>படர்க்கை ஒருமை [Third person singular]</b><br/>Examples: அவன் வந்தான், அது வந்தது<br/>அவன் வந்தான் - He came <br/>அது வந்தது - It came<br/><br/><b>படர்க்கை பன்மை [Third person plural]</b><br/>Examples: அவர்கள் வந்தனர், அவை வந்தன<br/>அவர்கள் வந்தனர் - They[உயர்திணை] came<br/>அவை வந்தன - They[அஃறிணை] came"
 		}]
 	}
 }
