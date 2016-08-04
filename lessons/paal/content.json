@@ -16,7 +16,7 @@
 		}, {
 			"term": "ஆண்பால் [Masculine Singular]",
 			"definition": "Nouns denoting objects of masculine gender which belong to உயர்திணை",
-			"description": "Example: சென்னியன், இராமன்"
+			"description": "Example: சென்னியன், இராமன்<br/>சென்னியன் and இராமன் are masculine names"
 		}, {
 			"term": "பெண்பால் [Feminine Singular]",
 			"definition": "Nouns denoting objects of feminine gender which belong to உயர்திணை",
@@ -24,19 +24,19 @@
 		}, {
 			"term": "பலர்பால் [Plural]",
 			"definition": "Nouns denoting multiple objects belonging to உயர்திணை",
-			"description": "Example: ஆண்கள், மக்கள்"
+			"description": "Example: ஆண்கள், மக்கள்<br/>ஆண்கள் - Men<br/>மக்கள் - People[plural]"
 		}, {
 			"term": "ஒன்றன் பால் [Singular]",
 			"definition": "Nouns denoting single அஃறிணை object",
-			"description": "Example: கோழி, மரம் "
+			"description": "Example: கோழி, மரம் <br/>கோழி - fowl<br/> மரம் - tree"
 		}, {
 			"term": "பலவின் பால் [Plural]",
 			"definition": "Nouns denoting more than one அஃறிணை objects",
-			"description": "Example: கோழிகள், மரங்கள் "
+			"description": "Example: கோழிகள், மரங்கள் <br/>கோழிகள் - fowl[plural]<br/>மரங்கள் - trees"
 		}, {
 			"term": "மதிப்புப் பன்மை [Plural for respect]",
 			"definition": "If a person belonging to ஆண்பால் or பெண்பால் and if he is a respectable person, it is common to treat them as பலர்பால். This is called மதிப்புப் பன்மை",
-			"description": "Example: கொல்லர் சென்றார்"
+			"description": "Example: கொல்லர் சென்றார்<br/>மதிப்பு - respect<br/>கொல்லர் - blacksmith<br/>சென்றார் - went"
 		}]
 	}
 }
