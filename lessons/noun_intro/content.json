@@ -1,0 +1,17 @@
+{
+	"content": {
+		"terms": [{
+			"term": "பெயர்ச்சொல் [p-e-y-a-r-c-c-o-l]",
+			"definition": "பெயர்ச்சொல் can be approximated to 'Nouns' in english.",
+			"description": "<b>Properties of பெயர்ச்சொல்</b><br/>1. It can have a reason for its name<br/>2. It may not have any reason for its name<br/>3. It does not show the tense<br/>4. Can take any வேற்றுமை<br/>5. It comes in all திணை, பால் and இடம்"
+		}, {
+			"term": "இடுகுறிப்பெயர்",
+			"definition": "These are names which came into existence without any underlying reason",
+			"description": "Example : மழை [rain]"
+		},{
+			"term":"காரணப் பெயர்", 
+			"definition":"These names came into existence because of some reason",
+			"description":"Example : பறவை [bird] | Reason : பறத்தல் means to fly; As birds fly, they are called பறவை"
+			}]
+	}
+}
