@@ -1,0 +1,25 @@
+{
+	"content": {
+		"terms": [{
+			"term": "வினையாலணையும் பெயர் [v-i-n-a-y-aa-l-a-N-ai-y-u-m p-e-y-a-r]",
+			"definition": "This can be called in english as 'Verbal Nouns'. Here the verbs acts as nowns.",
+			"description": "This is classified into three types : <br/>1. தன்மை வினையாலணையும் பெயர்<br/> 2. முன்னிலை வினையாலணையும் பெயர் <br/> 3. படர்க்கை வினையாலணையும் பெயர்"
+		}, {
+			"term": "தன்மை வினையாலணையும் பெயர்",
+			"definition": "The verbal nouns which denote first person",
+			"description": "<b>Examples :</b><br/> வந்தேனைக் கண்டாயா?. வந்தேன் as a single word is a verb with meaning 'I came'. But, here in this example it denotes the speaker 'who came'. Hence, வந்தேன் acts as a noun<br/><br/>சென்றேனை விளித்தான். சென்றேன் - I went. This can be translated roughly to 'He called me who went'"
+		}, {
+			"term": "முன்னிலை வினையாலணையும் பெயர்",
+			"definition": "The verbal nouns which denote second person",
+			"description": "Example : சென்றாயை விளித்தேன்"
+		}, {
+			"term": "படர்க்கை வினையாலணையும் பெயர்",
+			"definition": "The verbal nouns which denote third person",
+			"description": "Example :சென்றானை விளித்தேன் "
+		}, {
+			"term": "படர்க்கை வினையாலணையும் பெயர்",
+			"definition": "The verbal nouns which denote third person",
+			"description": "Example :சென்றானை விளித்தேன் "
+		}]
+	}
+}
