@@ -1,0 +1,38 @@
+{
+	"content": {
+		"terms": [{
+			"term": "பெயர்ச்சொல் வகைகள்",
+			"definition": "Noun Types",
+			"description": "There are six types of பெயர்ச்சொல்: பொருட்பெயர், இடப்பெயர், காலப்பெயர், சினைப்பெயர், பண்புப்பெயர், தொழிற்பெயர்"
+		}, {
+			"term": "பொருட்பெயர்",
+			"definition": "பொருள் - Object; பொருட்பெயர் - name of an object",
+			"description": "Examples : மலை, இராமன் "
+		}, {
+			"term": "இடப்பெயர்",
+			"definition": "Name of a place",
+			"description": "Examples : திருச்சி, ஆற்றங்கரை "
+
+		}, {
+			"term": "காலப்பெயர்",
+			"definition": "Name of a time",
+			"description": "Examples : காலை [morning] , மாலை [evening], ஆடித்திங்கள் [month of Aadi]"
+
+		}, {
+			"term": "சினைப்பெயர்",
+			"definition": "Name of a body part",
+			"description": "Examples : கால், மூக்கு"
+
+		}, {
+			"term": "பண்புப்பெயர்",
+			"definition": "Name of a quality",
+			"description": "Examples : <br/>யானையின் உருவம் பெரியது <br/> காலை வெப்பம் குளிர்ச்சி <br/> <br/> பெரியது - Big;குளிர்ச்சி - cold <br/> பெரியது and குளிர்ச்சி are qualities which act as noun in the sentence "
+
+		}, {
+			"term": "தொழிற்பெயர்",
+			"definition": "Name of a action",
+			"description": "Examples : பாடுதல், கூடல்  "
+
+		}]
+	}
+}
